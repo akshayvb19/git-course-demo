@@ -2,3 +2,10 @@ add and remove users
 change the roles
 manage db
 !!!!
+
+
+close the connection
+
+
+
+login logout 
