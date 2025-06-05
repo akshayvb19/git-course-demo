@@ -3,4 +3,13 @@ process the data
 
 
 create user avatar!!!
- 
+  change the roles
+manage db
+!!!!
+
+
+close the connection
+
+
+
+login logout 
