@@ -1,0 +1,11 @@
+add and remove users
+change the roles
+manage db
+!!!!
+
+
+close the connecti
+
+
+login logout 
+chsnmyutert
